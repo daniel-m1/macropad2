@@ -15,7 +15,7 @@
         default_layer {
 
             bindings = <
-    &bt BT_CLR &kp C_PREV   &kp C_PP &kp C_NEXT
+    &bt BT_CLR  &kp C_PREV   &kp C_PP &kp C_NEXT
     &mo 2  &kp C_VOL_DN &kp UP   &kp C_VOL_UP
     &mo 3  &kp LEFT     &kp DOWN &kp RIGHT
             >;
